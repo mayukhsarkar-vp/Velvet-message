@@ -1,0 +1,5 @@
+PORT=3000
+MONGODB_URI=mongodb://localhost:27017/velvet
+JWT_SECRET=velvet_secret_key_change_this_in_production
+ADMIN_ACCESS_CODE=VELVETADMIN2024
+UPLOAD_MAX_SIZE=52428800
